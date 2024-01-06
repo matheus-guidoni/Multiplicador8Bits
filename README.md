@@ -9,4 +9,6 @@ Entradas:
           - Init 
           
 
-Saídas:   - Produto [15:0]
+Saídas:   
+        
+            - Produto [15:0]
