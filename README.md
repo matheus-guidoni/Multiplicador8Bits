@@ -1,6 +1,8 @@
 ## Multiplicador de 8 BITS
 
-Entradas: - Muliplicand [7:0]
+Entradas: 
+
+          - Multiplicand [7:0]
 
           - Multiplier [7:0]
           
